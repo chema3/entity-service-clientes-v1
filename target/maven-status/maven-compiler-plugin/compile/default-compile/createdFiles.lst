@@ -1,0 +1,5 @@
+net/emma/val/controller/ClienteController.class
+net/emma/val/model/Cliente.class
+net/emma/val/EntityServiceClientesV1Application.class
+net/emma/val/service/ClienteService.class
+net/emma/val/service/ClienteServiceImpl.class
